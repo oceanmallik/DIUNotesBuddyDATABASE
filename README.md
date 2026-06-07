@@ -1,0 +1,2 @@
+# DIUNotesBuddyDATABASE
+Connected with supabase
