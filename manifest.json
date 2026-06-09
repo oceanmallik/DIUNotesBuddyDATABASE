@@ -18,15 +18,27 @@
                 "midterm": [
                   {
                     "topic": "Binary Logic",
-                    "filename": "binary_logic_notes.pdf",
-                    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    "files": [
+                      {
+                        "filename": "lecture_slides.pdf",
+                        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      },
+                      {
+                        "filename": "practice_worksheet.pdf",
+                        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      }
+                    ]
                   }
                 ],
                 "final": [
                   {
                     "topic": "CPU Architecture",
-                    "filename": "cpu_basics.pdf",
-                    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                    "files": [
+                      {
+                        "filename": "cpu_basics.pdf",
+                        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                      }
+                    ]
                   }
                 ],
                 "assignment": [],
