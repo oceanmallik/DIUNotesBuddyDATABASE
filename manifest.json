@@ -1,35 +1,44 @@
 {
-  "department": "Software Engineering",
-  "version": "1.0",
+  "version": "2.0",
   "lastUpdated": "2026-06-09",
-  "years": [
+  "departments": [
     {
-      "id": "1st-year",
-      "label": "1st Year",
-      "semesters": [
+      "id": "software-engineering",
+      "title": "Software Engineering",
+      "years": [
         {
-          "id": "semester-1",
-          "label": "Semester 1",
-          "subjects": [
+          "id": "1st-year",
+          "label": "1st Year",
+          "semesters": [
             {
-              "id": "swe-111",
-              "title": "Computer Fundamentals",
-              "materials": {
-                "midterm": [
-                  {
-                    "topic": "Binary Logic",
-                    "files": [
+              "id": "semester-1",
+              "label": "Semester 1",
+              "subjects": [
+                {
+                  "id": "swe-111",
+                  "title": "Computer Fundamentals",
+                  "materials": {
+                    "midterm": [
                       {
-                        "filename": "Rank of a Matrix Part 1.pdf",
-                        "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/swe-111_Computer%20Fundamentals/midterm/Binary%20Logic/Rank%20of%20a%20Matrix%20Part%201.pdf"
+                        "topic": "Binary Logic",
+                        "files": [
+                          {
+                            "filename": "Binary addition and Substruction.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/swe-111_Computer%20Fundamentals/midterm/Binary%20Logic/Binary%20addition%20and%20Substruction.pdf"
+                          },
+                          {
+                            "filename": "Rank of a Matrix Part 1.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/swe-111_Computer%20Fundamentals/midterm/Binary%20Logic/Rank%20of%20a%20Matrix%20Part%201.pdf"
+                          }
+                        ]
                       }
-                    ]
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
-                ],
-                "final": [],
-                "assignment": [],
-                "presentation": []
-              }
+                }
+              ]
             }
           ]
         }
