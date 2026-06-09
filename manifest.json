@@ -1,4 +1,5 @@
 {
+  "department": "Software Engineering",
   "version": "1.0",
   "lastUpdated": "2026-06-09",
   "years": [
@@ -11,30 +12,36 @@
           "label": "Semester 1",
           "subjects": [
             {
-  "id": "swe-111",
-  "title": "Computer Fundamentals",
-  "materials": {
-    "midterm": [
-      {
-        "topic": "Binary Logic",
-        "filename": "example.pdf",
-        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-      }
-    ],
-    "final": [
-      {
-        "topic": "CPU Architecture",
-        "filename": "cpu-basics.pdf",
-        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
-      }
-    ],
-    "assignment": [],
-    "presentation": []
-  }
-}
+              "id": "swe-111",
+              "title": "Computer Fundamentals",
+              "materials": {
+                "midterm": [
+                  {
+                    "topic": "Binary Logic",
+                    "filename": "binary_logic_notes.pdf",
+                    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                  }
+                ],
+                "final": [
+                  {
+                    "topic": "CPU Architecture",
+                    "filename": "cpu_basics.pdf",
+                    "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                  }
+                ],
+                "assignment": [],
+                "presentation": []
+              }
+            },
             {
               "id": "swe-112",
-              "title": "Introduction to Programming"
+              "title": "Introduction to Programming",
+              "materials": {
+                "midterm": [],
+                "final": [],
+                "assignment": [],
+                "presentation": []
+              }
             }
           ]
         },
@@ -46,6 +53,69 @@
         {
           "id": "sem-3",
           "label": "Semester 3",
+          "subjects": []
+        }
+      ]
+    },
+    {
+      "id": "year-2",
+      "label": "2nd Year",
+      "semesters": [
+        {
+          "id": "sem-4",
+          "label": "Semester 4",
+          "subjects": []
+        },
+        {
+          "id": "sem-5",
+          "label": "Semester 5",
+          "subjects": []
+        },
+        {
+          "id": "sem-6",
+          "label": "Semester 6",
+          "subjects": []
+        }
+      ]
+    },
+    {
+      "id": "year-3",
+      "label": "3rd Year",
+      "semesters": [
+        {
+          "id": "sem-7",
+          "label": "Semester 7",
+          "subjects": []
+        },
+        {
+          "id": "sem-8",
+          "label": "Semester 8",
+          "subjects": []
+        },
+        {
+          "id": "sem-9",
+          "label": "Semester 9",
+          "subjects": []
+        }
+      ]
+    },
+    {
+      "id": "year-4",
+      "label": "4th Year",
+      "semesters": [
+        {
+          "id": "sem-10",
+          "label": "Semester 10",
+          "subjects": []
+        },
+        {
+          "id": "sem-11",
+          "label": "Semester 11",
+          "subjects": []
+        },
+        {
+          "id": "sem-12",
+          "label": "Semester 12",
           "subjects": []
         }
       ]
