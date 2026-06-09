@@ -11,9 +11,27 @@
           "label": "Semester 1",
           "subjects": [
             {
-              "id": "swe-111",
-              "title": "Computer Fundamentals"
-            },
+  "id": "swe-111",
+  "title": "Computer Fundamentals",
+  "materials": {
+    "midterm": [
+      {
+        "topic": "Binary Logic",
+        "filename": "example.pdf",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "final": [
+      {
+        "topic": "CPU Architecture",
+        "filename": "cpu-basics.pdf",
+        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+      }
+    ],
+    "assignment": [],
+    "presentation": []
+  }
+}
             {
               "id": "swe-112",
               "title": "Introduction to Programming"
