@@ -1,90 +1,36 @@
 {
-    "version": "1.0",
-    "lastUpdated": "2026-06-07",
-    "years": [
+  "version": "1.0",
+  "lastUpdated": "2026-06-09",
+  "years": [
+    {
+      "id": "year-1",
+      "label": "1st Year",
+      "semesters": [
         {
-            "id": "year-1",
-            "label": "1st Year",
-            "semesters": [
-                {
-                    "id": "sem-1",
-                    "label": "Semester 1",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-2",
-                    "label": "Semester 2",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-3",
-                    "label": "Semester 3",
-                    "subjects": []
-                }
-            ]
+          "id": "sem-1",
+          "label": "Semester 1",
+          "subjects": [
+            {
+              "id": "swe-111",
+              "title": "Computer Fundamentals"
+            },
+            {
+              "id": "swe-112",
+              "title": "Introduction to Programming"
+            }
+          ]
         },
         {
-            "id": "year-2",
-            "label": "2nd Year",
-            "semesters": [
-                {
-                    "id": "sem-4",
-                    "label": "Semester 4",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-5",
-                    "label": "Semester 5",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-6",
-                    "label": "Semester 6",
-                    "subjects": []
-                }
-            ]
+          "id": "sem-2",
+          "label": "Semester 2",
+          "subjects": []
         },
         {
-            "id": "year-3",
-            "label": "3rd Year",
-            "semesters": [
-                {
-                    "id": "sem-7",
-                    "label": "Semester 7",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-8",
-                    "label": "Semester 8",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-9",
-                    "label": "Semester 9",
-                    "subjects": []
-                }
-            ]
-        },
-        {
-            "id": "year-4",
-            "label": "4th Year",
-            "semesters": [
-                {
-                    "id": "sem-10",
-                    "label": "Semester 10",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-11",
-                    "label": "Semester 11",
-                    "subjects": []
-                },
-                {
-                    "id": "sem-12",
-                    "label": "Semester 12",
-                    "subjects": []
-                }
-            ]
+          "id": "sem-3",
+          "label": "Semester 3",
+          "subjects": []
         }
-    ]
+      ]
+    }
+  ]
 }
