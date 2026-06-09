@@ -1,0 +1,32 @@
+name: Auto-Generate Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Software Engineering/**' # Only trigger when files change inside this folder
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the bot to save the new JSON
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Generator Script
+        run: node generate_manifest.js
+
+      - name: Commit manifest.json
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🤖 Auto-updated manifest.json based on folder changes"
+          file_pattern: manifest.json
