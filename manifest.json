@@ -17,11 +17,11 @@
               "materials": {
                 "midterm": [
                   {
-                    "topic": "Binary Logic",
+                    "topic": "Matrix & Determinant Part 1",
                     "files": [
                       {
-                        "filename": "lecture_slides.pdf",
-                        "url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf"
+                        "filename": "Matrix and det.pdf",
+                        "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/notes/year-1/sem-1/swe-111/Computer Fundamentals/Binary Logic/Matrix %26 Determinant Part 1.pdf.pdf"
                       },
                       {
                         "filename": "practice_worksheet.pdf",
