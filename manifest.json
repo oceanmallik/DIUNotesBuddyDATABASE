@@ -15,16 +15,6 @@
               "label": "Semester 1",
               "subjects": [
                 {
-                  "id": "SWE-111",
-                  "title": "SWE-111",
-                  "materials": {
-                    "midterm": [],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": []
-                  }
-                },
-                {
                   "id": "swe-111",
                   "title": "Computer Fundamentals",
                   "materials": {
