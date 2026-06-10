@@ -15,6 +15,26 @@
               "label": "Semester 1",
               "subjects": [
                 {
+                  "id": "SWE-111",
+                  "title": "SWE-111",
+                  "materials": {
+                    "midterm": [
+                      {
+                        "topic": "Binary Logic",
+                        "files": [
+                          {
+                            "filename": "DIU_CS_20260511_215836.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/SWE-111/midterm/Binary%20Logic/DIU_CS_20260511_215836.pdf"
+                          }
+                        ]
+                      }
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
+                  }
+                },
+                {
                   "id": "swe-111",
                   "title": "Computer Fundamentals",
                   "materials": {
