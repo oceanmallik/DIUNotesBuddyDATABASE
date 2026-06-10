@@ -29,6 +29,15 @@
                         ]
                       },
                       {
+                        "topic": "Different admin test",
+                        "files": [
+                          {
+                            "filename": "11.Gamma Beta Function.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/SWE-111/midterm/Different%20admin%20test/11.Gamma%20Beta%20Function.pdf"
+                          }
+                        ]
+                      },
+                      {
                         "topic": "New topic for testing lmao",
                         "files": [
                           {
