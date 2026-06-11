@@ -15,6 +15,78 @@
               "label": "Semester 3",
               "subjects": [
                 {
+                  "id": "DigitalElectronics",
+                  "title": "DigitalElectronics",
+                  "materials": {
+                    "midterm": [],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": [],
+                    "mid": [
+                      {
+                        "topic": "Boolean Algebra",
+                        "files": [
+                          {
+                            "filename": "Boolean.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Boolean%20Algebra/Boolean.pdf"
+                          },
+                          {
+                            "filename": "Logic Gates & Boolean Algebra.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Boolean%20Algebra/Logic%20Gates%20&%20Boolean%20Algebra.pdf"
+                          },
+                          {
+                            "filename": "Universal Gates.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Boolean%20Algebra/Universal%20Gates.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Digital Logic",
+                        "files": [
+                          {
+                            "filename": "Digital Logic & Computer Design.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Digital%20Logic/Digital%20Logic%20&%20Computer%20Design.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Kmap",
+                        "files": [
+                          {
+                            "filename": "K-Map.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Kmap/K-Map.pdf"
+                          },
+                          {
+                            "filename": "K-map implementation.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Kmap/K-map%20implementation.pdf"
+                          },
+                          {
+                            "filename": "Karnaugh Maps Rules.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Kmap/Karnaugh%20Maps%20Rules.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Number System",
+                        "files": [
+                          {
+                            "filename": "Binary Addition and Substruction.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Number%20System/Binary%20Addition%20and%20Substruction.pdf"
+                          },
+                          {
+                            "filename": "Binary Arithmatic Operation.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Number%20System/Binary%20Arithmatic%20Operation.pdf"
+                          },
+                          {
+                            "filename": "Number System Conversion.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DigitalElectronics/Mid/Number%20System/Number%20System%20Conversion.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
                   "id": "Math",
                   "title": "Math",
                   "materials": {
