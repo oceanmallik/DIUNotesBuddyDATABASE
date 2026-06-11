@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-10",
+  "lastUpdated": "2026-06-11",
   "departments": [
     {
       "id": "software-engineering",
@@ -11,69 +11,99 @@
           "label": "1st Year",
           "semesters": [
             {
-              "id": "semester-1",
-              "label": "Semester 1",
+              "id": "semester-3",
+              "label": "Semester 3",
               "subjects": [
                 {
-                  "id": "SWE-111",
-                  "title": "SWE-111",
+                  "id": "Math",
+                  "title": "Math",
                   "materials": {
-                    "midterm": [
-                      {
-                        "topic": "Binary Logic",
-                        "files": [
-                          {
-                            "filename": "DIU_CS_20260511_215836.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/SWE-111/midterm/Binary%20Logic/DIU_CS_20260511_215836.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "Different admin test",
-                        "files": [
-                          {
-                            "filename": "11.Gamma Beta Function.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/SWE-111/midterm/Different%20admin%20test/11.Gamma%20Beta%20Function.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "New topic for testing lmao",
-                        "files": [
-                          {
-                            "filename": "MAth problem solve (2).pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/SWE-111/midterm/New%20topic%20for%20testing%20lmao/MAth%20problem%20solve%20(2).pdf"
-                          }
-                        ]
-                      }
-                    ],
+                    "midterm": [],
                     "final": [],
                     "assignment": [],
-                    "presentation": []
-                  }
-                },
-                {
-                  "id": "swe-111",
-                  "title": "Computer Fundamentals",
-                  "materials": {
-                    "midterm": [
+                    "presentation": [],
+                    "mid": [
                       {
-                        "topic": "Binary Logic",
+                        "topic": "Inverse Metrix",
                         "files": [
                           {
-                            "filename": "Binary addition and Substruction.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/swe-111_Computer%20Fundamentals/midterm/Binary%20Logic/Binary%20addition%20and%20Substruction.pdf"
+                            "filename": "Inverse Matrix (Extra).pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Inverse%20Metrix/Inverse%20Matrix%20(Extra).pdf"
+                          },
+                          {
+                            "filename": "Inverse Matrix.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Inverse%20Metrix/Inverse%20Matrix.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Metrix",
+                        "files": [
+                          {
+                            "filename": "Matrix & Determinant Part 1.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%201.pdf"
+                          },
+                          {
+                            "filename": "Matrix & Determinant Part 2.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%202.pdf"
+                          },
+                          {
+                            "filename": "Matrix & Determinant Part 3.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%203.pdf"
+                          },
+                          {
+                            "filename": "Matrix & Determinant Part 4.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%204.pdf"
+                          },
+                          {
+                            "filename": "Matrix (Extra).pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20(Extra).pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Rank of a Metrix",
+                        "files": [
+                          {
+                            "filename": "Matrix Rank (Extra).pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Matrix%20Rank%20(Extra).pdf"
                           },
                           {
                             "filename": "Rank of a Matrix Part 1.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%201/swe-111_Computer%20Fundamentals/midterm/Binary%20Logic/Rank%20of%20a%20Matrix%20Part%201.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%201.pdf"
+                          },
+                          {
+                            "filename": "Rank of a Matrix Part 2.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%202.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "System of Linear Equations",
+                        "files": [
+                          {
+                            "filename": "Real Life Application of SLE.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/Real%20Life%20Application%20of%20SLE.pdf"
+                          },
+                          {
+                            "filename": "SEL 02.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/SEL%2002.pdf"
+                          },
+                          {
+                            "filename": "SLE 01.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/SLE%2001.pdf"
+                          },
+                          {
+                            "filename": "System of Linear Equations (Extra).pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/System%20of%20Linear%20Equations%20(Extra).pdf"
+                          },
+                          {
+                            "filename": "Systemmof Linear Equations.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/Systemmof%20Linear%20Equations.pdf"
                           }
                         ]
                       }
-                    ],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": []
+                    ]
                   }
                 }
               ]
