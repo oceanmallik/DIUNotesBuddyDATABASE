@@ -9,7 +9,7 @@ const BASE_URL = `https://raw.githubusercontent.com/${REPO_OWNER}/${REPO_NAME}/m
 // NEW: An array of all departments your app supports!
 const DEPARTMENTS = [
     'Software Engineering', 
-    'Computer Science and Engineering'
+    'Information Technology Management'
 ];
 
 const makeId = (str) => str.toLowerCase().replace(/[^a-z0-9]/g, '-');
