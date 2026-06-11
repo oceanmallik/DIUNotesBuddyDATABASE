@@ -5,7 +5,9 @@ on:
     branches:
       - main
     paths:
-      - 'Software Engineering/**' # Only trigger when files change inside this folder
+      - 'Software Engineering/**' 
+      - 'Information Technology Management/**'
+      # Only trigger when files change inside this folder
 
 jobs:
   build:
