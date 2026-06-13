@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-11",
+  "lastUpdated": "2026-06-13",
   "departments": [
     {
       "id": "software-engineering",
@@ -80,6 +80,62 @@
                           {
                             "filename": "Number System Conversion.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Number%20System/Number%20System%20Conversion.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
+                {
+                  "id": "Discrete Mathematics",
+                  "title": "Discrete Mathematics",
+                  "materials": {
+                    "midterm": [],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": [],
+                    "mid": [
+                      {
+                        "topic": "Connectives",
+                        "files": [
+                          {
+                            "filename": "1. Basic Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Connectives/1.%20Basic%20Logical%20Connectives.pdf"
+                          },
+                          {
+                            "filename": "2. Derived Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Connectives/2.%20Derived%20Logical%20Connectives.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Logic",
+                        "files": [
+                          {
+                            "filename": "1. Laws of Propositional Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Logic/1.%20Laws%20of%20Propositional%20Logic.pdf"
+                          },
+                          {
+                            "filename": "2. Predicate Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Logic/2.%20Predicate%20Logic.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Probability",
+                        "files": [
+                          {
+                            "filename": "Probability.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Probability/Probability.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Statement",
+                        "files": [
+                          {
+                            "filename": "Lecture slide 1. Statement and Compound Statement.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Statement/Lecture%20slide%201.%20Statement%20and%20Compound%20Statement.pdf"
                           }
                         ]
                       }
