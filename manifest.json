@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-13",
+  "lastUpdated": "2026-06-14",
   "departments": [
     {
       "id": "software-engineering",
@@ -14,6 +14,44 @@
               "id": "semester-3",
               "label": "Semester 3",
               "subjects": [
+                {
+                  "id": "Data Structure",
+                  "title": "Data Structure",
+                  "materials": {
+                    "midterm": [],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": [],
+                    "mid": [
+                      {
+                        "topic": "Array",
+                        "files": [
+                          {
+                            "filename": "1. Array Basics.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/1.%20Array%20Basics.pdf"
+                          },
+                          {
+                            "filename": "2. Array searching Algorithm.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/2.%20Array%20searching%20Algorithm.pdf"
+                          },
+                          {
+                            "filename": "3. Array Sort.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/3.%20Array%20Sort.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Basics",
+                        "files": [
+                          {
+                            "filename": "Data Structures.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Basics/Data%20Structures.pdf"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                },
                 {
                   "id": "Digital Electronics",
                   "title": "Digital Electronics",
