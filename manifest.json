@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-14",
+  "lastUpdated": "2026-06-18",
   "departments": [
     {
       "id": "software-engineering",
@@ -178,6 +178,26 @@
                         ]
                       }
                     ]
+                  }
+                },
+                {
+                  "id": "MATH",
+                  "title": "MATH",
+                  "materials": {
+                    "midterm": [
+                      {
+                        "topic": "Eigen",
+                        "files": [
+                          {
+                            "filename": "Eigen Values and Eigen Vectors.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Eigen/Eigen%20Values%20and%20Eigen%20Vectors.pdf"
+                          }
+                        ]
+                      }
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
                 },
                 {
