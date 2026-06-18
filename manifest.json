@@ -15,28 +15,24 @@
               "label": "Semester 3",
               "subjects": [
                 {
-                  "id": "Data Structure",
-                  "title": "Data Structure",
+                  "id": "DATA STRUCTURE",
+                  "title": "DATA STRUCTURE",
                   "materials": {
-                    "midterm": [],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": [],
-                    "mid": [
+                    "midterm": [
                       {
                         "topic": "Array",
                         "files": [
                           {
                             "filename": "1. Array Basics.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/1.%20Array%20Basics.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Array/1.%20Array%20Basics.pdf"
                           },
                           {
                             "filename": "2. Array searching Algorithm.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/2.%20Array%20searching%20Algorithm.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Array/2.%20Array%20searching%20Algorithm.pdf"
                           },
                           {
                             "filename": "3. Array Sort.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Array/3.%20Array%20Sort.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Array/3.%20Array%20Sort.pdf"
                           }
                         ]
                       },
@@ -45,36 +41,35 @@
                         "files": [
                           {
                             "filename": "Data Structures.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Data%20Structure/Mid/Basics/Data%20Structures.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Basics/Data%20Structures.pdf"
                           }
                         ]
                       }
-                    ]
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
                 },
                 {
-                  "id": "Digital Electronics",
-                  "title": "Digital Electronics",
+                  "id": "DIGITAL ELECTRONICS",
+                  "title": "DIGITAL ELECTRONICS",
                   "materials": {
-                    "midterm": [],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": [],
-                    "mid": [
+                    "midterm": [
                       {
                         "topic": "Boolean Algebra",
                         "files": [
                           {
                             "filename": "Boolean.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Boolean%20Algebra/Boolean.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Boolean%20Algebra/Boolean.pdf"
                           },
                           {
                             "filename": "Logic Gates & Boolean Algebra.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Boolean%20Algebra/Logic%20Gates%20&%20Boolean%20Algebra.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Boolean%20Algebra/Logic%20Gates%20&%20Boolean%20Algebra.pdf"
                           },
                           {
                             "filename": "Universal Gates.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Boolean%20Algebra/Universal%20Gates.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Boolean%20Algebra/Universal%20Gates.pdf"
                           }
                         ]
                       },
@@ -83,7 +78,7 @@
                         "files": [
                           {
                             "filename": "Digital Logic & Computer Design.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Digital%20Logic/Digital%20Logic%20&%20Computer%20Design.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Digital%20Logic/Digital%20Logic%20&%20Computer%20Design.pdf"
                           }
                         ]
                       },
@@ -92,15 +87,15 @@
                         "files": [
                           {
                             "filename": "K-Map.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Kmap/K-Map.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Kmap/K-Map.pdf"
                           },
                           {
                             "filename": "K-map implementation.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Kmap/K-map%20implementation.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Kmap/K-map%20implementation.pdf"
                           },
                           {
                             "filename": "Karnaugh Maps Rules.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Kmap/Karnaugh%20Maps%20Rules.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Kmap/Karnaugh%20Maps%20Rules.pdf"
                           }
                         ]
                       },
@@ -109,40 +104,39 @@
                         "files": [
                           {
                             "filename": "Binary Addition and Substruction.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Number%20System/Binary%20Addition%20and%20Substruction.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Number%20System/Binary%20Addition%20and%20Substruction.pdf"
                           },
                           {
                             "filename": "Binary Arithmatic Operation.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Number%20System/Binary%20Arithmatic%20Operation.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Number%20System/Binary%20Arithmatic%20Operation.pdf"
                           },
                           {
                             "filename": "Number System Conversion.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Digital%20Electronics/Mid/Number%20System/Number%20System%20Conversion.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Number%20System/Number%20System%20Conversion.pdf"
                           }
                         ]
                       }
-                    ]
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
                 },
                 {
-                  "id": "Discrete Mathematics",
-                  "title": "Discrete Mathematics",
+                  "id": "DISCRETE MATHEMATICS",
+                  "title": "DISCRETE MATHEMATICS",
                   "materials": {
-                    "midterm": [],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": [],
-                    "mid": [
+                    "midterm": [
                       {
                         "topic": "Connectives",
                         "files": [
                           {
                             "filename": "1. Basic Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Connectives/1.%20Basic%20Logical%20Connectives.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Connectives/1.%20Basic%20Logical%20Connectives.pdf"
                           },
                           {
                             "filename": "2. Derived Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Connectives/2.%20Derived%20Logical%20Connectives.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Connectives/2.%20Derived%20Logical%20Connectives.pdf"
                           }
                         ]
                       },
@@ -151,11 +145,11 @@
                         "files": [
                           {
                             "filename": "1. Laws of Propositional Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Logic/1.%20Laws%20of%20Propositional%20Logic.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/1.%20Laws%20of%20Propositional%20Logic.pdf"
                           },
                           {
                             "filename": "2. Predicate Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Logic/2.%20Predicate%20Logic.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/2.%20Predicate%20Logic.pdf"
                           }
                         ]
                       },
@@ -164,7 +158,7 @@
                         "files": [
                           {
                             "filename": "Probability.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Probability/Probability.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Probability/Probability.pdf"
                           }
                         ]
                       },
@@ -173,11 +167,14 @@
                         "files": [
                           {
                             "filename": "Lecture slide 1. Statement and Compound Statement.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Discrete%20Mathematics/Mid/Statement/Lecture%20slide%201.%20Statement%20and%20Compound%20Statement.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Statement/Lecture%20slide%201.%20Statement%20and%20Compound%20Statement.pdf"
                           }
                         ]
                       }
-                    ]
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
                 },
                 {
@@ -193,32 +190,17 @@
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Eigen/Eigen%20Values%20and%20Eigen%20Vectors.pdf"
                           }
                         ]
-                      }
-                    ],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": []
-                  }
-                },
-                {
-                  "id": "Math",
-                  "title": "Math",
-                  "materials": {
-                    "midterm": [],
-                    "final": [],
-                    "assignment": [],
-                    "presentation": [],
-                    "mid": [
+                      },
                       {
                         "topic": "Inverse Metrix",
                         "files": [
                           {
                             "filename": "Inverse Matrix (Extra).pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Inverse%20Metrix/Inverse%20Matrix%20(Extra).pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Inverse%20Metrix/Inverse%20Matrix%20(Extra).pdf"
                           },
                           {
                             "filename": "Inverse Matrix.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Inverse%20Metrix/Inverse%20Matrix.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Inverse%20Metrix/Inverse%20Matrix.pdf"
                           }
                         ]
                       },
@@ -227,23 +209,23 @@
                         "files": [
                           {
                             "filename": "Matrix & Determinant Part 1.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%201.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Metrix/Matrix%20&%20Determinant%20Part%201.pdf"
                           },
                           {
                             "filename": "Matrix & Determinant Part 2.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%202.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Metrix/Matrix%20&%20Determinant%20Part%202.pdf"
                           },
                           {
                             "filename": "Matrix & Determinant Part 3.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%203.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Metrix/Matrix%20&%20Determinant%20Part%203.pdf"
                           },
                           {
                             "filename": "Matrix & Determinant Part 4.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20&%20Determinant%20Part%204.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Metrix/Matrix%20&%20Determinant%20Part%204.pdf"
                           },
                           {
                             "filename": "Matrix (Extra).pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Metrix/Matrix%20(Extra).pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Metrix/Matrix%20(Extra).pdf"
                           }
                         ]
                       },
@@ -252,15 +234,15 @@
                         "files": [
                           {
                             "filename": "Matrix Rank (Extra).pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Matrix%20Rank%20(Extra).pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Rank%20of%20a%20Metrix/Matrix%20Rank%20(Extra).pdf"
                           },
                           {
                             "filename": "Rank of a Matrix Part 1.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%201.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%201.pdf"
                           },
                           {
                             "filename": "Rank of a Matrix Part 2.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%202.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/Rank%20of%20a%20Metrix/Rank%20of%20a%20Matrix%20Part%202.pdf"
                           }
                         ]
                       },
@@ -269,27 +251,30 @@
                         "files": [
                           {
                             "filename": "Real Life Application of SLE.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/Real%20Life%20Application%20of%20SLE.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/System%20of%20Linear%20Equations/Real%20Life%20Application%20of%20SLE.pdf"
                           },
                           {
                             "filename": "SEL 02.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/SEL%2002.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/System%20of%20Linear%20Equations/SEL%2002.pdf"
                           },
                           {
                             "filename": "SLE 01.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/SLE%2001.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/System%20of%20Linear%20Equations/SLE%2001.pdf"
                           },
                           {
                             "filename": "System of Linear Equations (Extra).pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/System%20of%20Linear%20Equations%20(Extra).pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/System%20of%20Linear%20Equations/System%20of%20Linear%20Equations%20(Extra).pdf"
                           },
                           {
                             "filename": "Systemmof Linear Equations.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/Math/Mid/System%20of%20Linear%20Equations/Systemmof%20Linear%20Equations.pdf"
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATH/midterm/System%20of%20Linear%20Equations/Systemmof%20Linear%20Equations.pdf"
                           }
                         ]
                       }
-                    ]
+                    ],
+                    "final": [],
+                    "assignment": [],
+                    "presentation": []
                   }
                 }
               ]
