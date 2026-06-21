@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-18",
+  "lastUpdated": "2026-06-21",
   "departments": [
     {
       "id": "software-engineering",
@@ -144,12 +144,16 @@
                         "topic": "Logic",
                         "files": [
                           {
-                            "filename": "1. Laws of Propositional Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/1.%20Laws%20of%20Propositional%20Logic.pdf"
+                            "filename": "1. Statement and Compound Statement.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/1.%20Statement%20and%20Compound%20Statement.pdf"
                           },
                           {
-                            "filename": "2. Predicate Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/2.%20Predicate%20Logic.pdf"
+                            "filename": "2. Laws of Propositional Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/2.%20Laws%20of%20Propositional%20Logic.pdf"
+                          },
+                          {
+                            "filename": "3. Predicate Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/3.%20Predicate%20Logic.pdf"
                           }
                         ]
                       },
@@ -159,15 +163,6 @@
                           {
                             "filename": "Probability.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Probability/Probability.pdf"
-                          }
-                        ]
-                      },
-                      {
-                        "topic": "Statement",
-                        "files": [
-                          {
-                            "filename": "Lecture slide 1. Statement and Compound Statement.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Statement/Lecture%20slide%201.%20Statement%20and%20Compound%20Statement.pdf"
                           }
                         ]
                       }
