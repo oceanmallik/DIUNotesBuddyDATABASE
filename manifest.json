@@ -128,19 +128,6 @@
                   "materials": {
                     "midterm": [
                       {
-                        "topic": "Connectives",
-                        "files": [
-                          {
-                            "filename": "1. Basic Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Connectives/1.%20Basic%20Logical%20Connectives.pdf"
-                          },
-                          {
-                            "filename": "2. Derived Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Connectives/2.%20Derived%20Logical%20Connectives.pdf"
-                          }
-                        ]
-                      },
-                      {
                         "topic": "Logic",
                         "files": [
                           {
@@ -154,6 +141,14 @@
                           {
                             "filename": "3. Predicate Logic.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/3.%20Predicate%20Logic.pdf"
+                          },
+                          {
+                            "filename": "Basic Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/Basic%20Logical%20Connectives.pdf"
+                          },
+                          {
+                            "filename": "Derived Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/Derived%20Logical%20Connectives.pdf"
                           }
                         ]
                       },
