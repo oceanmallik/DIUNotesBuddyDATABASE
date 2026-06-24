@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-22",
+  "lastUpdated": "2026-06-24",
   "departments": [
     {
       "id": "software-engineering",
@@ -56,6 +56,15 @@
                   "title": "DIGITAL ELECTRONICS",
                   "materials": {
                     "midterm": [
+                      {
+                        "topic": "Adder",
+                        "files": [
+                          {
+                            "filename": "Full Adder.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DIGITAL%20ELECTRONICS/midterm/Adder/Full%20Adder.pdf"
+                          }
+                        ]
+                      },
                       {
                         "topic": "Boolean Algebra",
                         "files": [
