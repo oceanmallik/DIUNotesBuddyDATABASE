@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-24",
+  "lastUpdated": "2026-06-25",
   "departments": [
     {
       "id": "software-engineering",
@@ -208,6 +208,19 @@
                           {
                             "filename": "Inverse Matrix.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/midterm/Inverse%20Metrix/Inverse%20Matrix.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Linear Equations",
+                        "files": [
+                          {
+                            "filename": "Applications of Systems - LinearEquations.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/midterm/Linear%20Equations/Applications%20of%20Systems%20-%20LinearEquations.pdf"
+                          },
+                          {
+                            "filename": "System of Linear Equations.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/midterm/Linear%20Equations/System%20of%20Linear%20Equations.pdf"
                           }
                         ]
                       },
