@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-27",
+  "lastUpdated": "2026-06-28",
   "departments": [
     {
       "id": "software-engineering",
@@ -49,8 +49,8 @@
                         "topic": "Linked List",
                         "files": [
                           {
-                            "filename": "Linked List Delet and Merge.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Linked%20List/Linked%20List%20Delet%20and%20Merge.pdf"
+                            "filename": "Linked List Delete and Merge.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/midterm/Linked%20List/Linked%20List%20Delete%20and%20Merge.pdf"
                           },
                           {
                             "filename": "Linked List Insertion.pdf",
