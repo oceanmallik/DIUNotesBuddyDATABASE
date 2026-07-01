@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-07-01",
   "departments": [
     {
       "id": "software-engineering",
@@ -163,27 +163,11 @@
                   "materials": {
                     "midterm": [
                       {
-                        "topic": "Logic",
+                        "topic": "Predicate Logic",
                         "files": [
                           {
-                            "filename": "1. Statement and Compound Statement.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/1.%20Statement%20and%20Compound%20Statement.pdf"
-                          },
-                          {
-                            "filename": "2. Laws of Propositional Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/2.%20Laws%20of%20Propositional%20Logic.pdf"
-                          },
-                          {
-                            "filename": "3. Predicate Logic.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/3.%20Predicate%20Logic.pdf"
-                          },
-                          {
-                            "filename": "Basic Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/Basic%20Logical%20Connectives.pdf"
-                          },
-                          {
-                            "filename": "Derived Logical Connectives.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Logic/Derived%20Logical%20Connectives.pdf"
+                            "filename": "1. Predicate Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Predicate%20Logic/1.%20Predicate%20Logic.pdf"
                           }
                         ]
                       },
@@ -191,8 +175,29 @@
                         "topic": "Probability",
                         "files": [
                           {
-                            "filename": "Probability.pdf",
-                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Probability/Probability.pdf"
+                            "filename": "1. Probability.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Probability/1.%20Probability.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Propotional Logic",
+                        "files": [
+                          {
+                            "filename": "1. Statement and Compound Statement.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Propotional%20Logic/1.%20Statement%20and%20Compound%20Statement.pdf"
+                          },
+                          {
+                            "filename": "2. Basic Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Propotional%20Logic/2.%20Basic%20Logical%20Connectives.pdf"
+                          },
+                          {
+                            "filename": "3. Derived Logical Connectives.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Propotional%20Logic/3.%20Derived%20Logical%20Connectives.pdf"
+                          },
+                          {
+                            "filename": "4. Laws of Propositional Logic.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/midterm/Propotional%20Logic/4.%20Laws%20of%20Propositional%20Logic.pdf"
                           }
                         ]
                       }
