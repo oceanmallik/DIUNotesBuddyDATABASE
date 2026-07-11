@@ -74,11 +74,46 @@
                     ],
                     "final": [
                       {
+                        "topic": "Graph",
+                        "files": [
+                          {
+                            "filename": "Graph Traversal - BFS and DFS.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Graph/Graph%20Traversal%20-%20BFS%20and%20DFS.pdf"
+                          },
+                          {
+                            "filename": "Graph.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Graph/Graph.pdf"
+                          }
+                        ]
+                      },
+                      {
                         "topic": "Linked List",
                         "files": [
                           {
                             "filename": "Linked List Variations.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Linked%20List/Linked%20List%20Variations.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Queue",
+                        "files": [
+                          {
+                            "filename": "Queue.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Queue/Queue.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Tree",
+                        "files": [
+                          {
+                            "filename": "Binary Search Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Tree/Binary%20Search%20Tree.pdf"
+                          },
+                          {
+                            "filename": "Introduction with Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Tree/Introduction%20with%20Tree.pdf"
                           }
                         ]
                       }
