@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-07-01",
+  "lastUpdated": "2026-07-11",
   "departments": [
     {
       "id": "software-engineering",
@@ -72,7 +72,17 @@
                         ]
                       }
                     ],
-                    "final": [],
+                    "final": [
+                      {
+                        "topic": "Linked List",
+                        "files": [
+                          {
+                            "filename": "Linked List Variations.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DATA%20STRUCTURE/final/Linked%20List/Linked%20List%20Variations.pdf"
+                          }
+                        ]
+                      }
+                    ],
                     "assignment": [],
                     "presentation": []
                   }
