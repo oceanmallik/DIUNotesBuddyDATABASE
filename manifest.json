@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-07-11",
+  "lastUpdated": "2026-07-16",
   "departments": [
     {
       "id": "software-engineering",
@@ -929,6 +929,27 @@
                       }
                     ],
                     "final": [
+                      {
+                        "topic": "Complex Variables",
+                        "files": [
+                          {
+                            "filename": "Comlex Number.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Complex%20Variables/Comlex%20Number.pdf"
+                          },
+                          {
+                            "filename": "Complex Variables Part 01.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Complex%20Variables/Complex%20Variables%20Part%2001.pdf"
+                          },
+                          {
+                            "filename": "Complex Variables Part 02.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Complex%20Variables/Complex%20Variables%20Part%2002.pdf"
+                          },
+                          {
+                            "filename": "Complex Variables Part 03.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Complex%20Variables/Complex%20Variables%20Part%2003.pdf"
+                          }
+                        ]
+                      },
                       {
                         "topic": "Harmonic Function",
                         "files": [
