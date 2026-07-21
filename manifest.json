@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-07-16",
+  "lastUpdated": "2026-07-21",
   "departments": [
     {
       "id": "software-engineering",
@@ -816,7 +816,80 @@
                         ]
                       }
                     ],
-                    "final": [],
+                    "final": [
+                      {
+                        "topic": "Binary Tree",
+                        "files": [
+                          {
+                            "filename": "Binary Search Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Binary%20Search%20Tree.pdf"
+                          },
+                          {
+                            "filename": "Binary Tree Traversals.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Binary%20Tree%20Traversals.pdf"
+                          },
+                          {
+                            "filename": "Common Applications of Trees.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Common%20Applications%20of%20Trees.pdf"
+                          },
+                          {
+                            "filename": "Complete and Extended Binary Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Complete%20and%20Extended%20Binary%20Tree.pdf"
+                          },
+                          {
+                            "filename": "Expression to Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Expression%20to%20Tree.pdf"
+                          },
+                          {
+                            "filename": "Introduction.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Introduction.pdf"
+                          },
+                          {
+                            "filename": "Minimum Spanning Tree (MST).pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Minimum%20Spanning%20Tree%20(MST).pdf"
+                          },
+                          {
+                            "filename": "Representing Binary Tree in Computer Memory.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Representing%20Binary%20Tree%20in%20Computer%20Memory.pdf"
+                          },
+                          {
+                            "filename": "Spanning Tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Spanning%20Tree.pdf"
+                          },
+                          {
+                            "filename": "Why do we use tree.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Binary%20Tree/Why%20do%20we%20use%20tree.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Function",
+                        "files": [
+                          {
+                            "filename": "Function.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Function/Function.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Graph Theory",
+                        "files": [
+                          {
+                            "filename": "Graph Theory.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Graph%20Theory/Graph%20Theory.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Relational Algebra",
+                        "files": [
+                          {
+                            "filename": "Relational Algebra.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/DISCRETE%20MATHEMATICS/final/Relational%20Algebra/Relational%20Algebra.pdf"
+                          }
+                        ]
+                      }
+                    ],
                     "assignment": [],
                     "presentation": []
                   }
