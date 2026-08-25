@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "lastUpdated": "2026-07-21",
+  "lastUpdated": "2026-08-25",
   "departments": [
     {
       "id": "software-engineering",
@@ -1024,6 +1024,19 @@
                           {
                             "filename": "Complex Variables Part 03.pdf",
                             "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Complex%20Variables/Complex%20Variables%20Part%2003.pdf"
+                          }
+                        ]
+                      },
+                      {
+                        "topic": "Fourier",
+                        "files": [
+                          {
+                            "filename": "Fourier Series Part 01.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Fourier/Fourier%20Series%20Part%2001.pdf"
+                          },
+                          {
+                            "filename": "Fourier Series Part 02.pdf",
+                            "url": "https://raw.githubusercontent.com/oceanmallik/DIUNotesBuddyDATABASE/main/Software%20Engineering/1st%20Year/Semester%203/MATHEMATICS%20II/final/Fourier/Fourier%20Series%20Part%2002.pdf"
                           }
                         ]
                       },
